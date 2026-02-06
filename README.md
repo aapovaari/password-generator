@@ -1,3 +1,5 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/aapovaari/password-generator)](https://hub.docker.com/r/aapovaari/password-generator)
+
 # Salasanageneraattori
 
 ## Ominaisuudet
